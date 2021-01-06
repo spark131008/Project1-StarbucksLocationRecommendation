@@ -60,26 +60,26 @@ object StarbucksNearMeRecommendation {
 
     //show the file content
 
-    // println()
-    // println(
-    //   "[STEP 3] - Compute travel distances between 5 addresses from [Step 1] and each Starbucks store location from [Step 2]\n"
-    // )
-    // loading()
-    // val mapWithFinalValue = travelDistanceCalculator("GPS.txt", "Starbucks.txt")
+    println()
+    println(
+      "[STEP 3] - Compute travel distances between 5 addresses from [Step 1] and each Starbucks store location from [Step 2]\n"
+    )
+    loading()
+    val mapWithFinalValue = travelDistanceCalculator("GPS.txt", "Starbucks.txt")
 
-    // println()
-    // println(
-    //   "[STEP 4] - Top 3 Starbucks Stores Near Me Recommendation using an algorithm (Shortest distance to Farthest distance)\n"
-    // )
-    // loading()
+    println()
+    println(
+      "[STEP 4] - Top 3 Starbucks Near Me Recommendation using an algorithm (Shortest distance to Farthest distance)\n"
+    )
+    loading()
 
-    // var count = 1
-    // mapSort(mapWithFinalValue).keys.take(3).foreach{key =>
-    // println(s"Starbucks Near Me Recommendation [${count}]: ${key}\n" +
-    //   f"Travel Distance based on your driving data: ${mapWithFinalValue(key)}%.2f mi\n")
-    // count += 1
-    // Thread.sleep(500)
-    // }
+    var count = 1
+    mapSort(mapWithFinalValue).keys.take(3).foreach{key =>
+    println(s"Starbucks Near Me Recommendation [${count}]: ${key}\n" +
+      f"Travel Distance based on your driving data: ${mapWithFinalValue(key)}%.2f mi\n")
+    count += 1
+    Thread.sleep(500)
+    }
 
   }
 
