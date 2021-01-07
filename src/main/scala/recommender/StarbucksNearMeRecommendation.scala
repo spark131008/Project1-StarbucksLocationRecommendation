@@ -26,7 +26,7 @@ object StarbucksNearMeRecommendation {
     
     print(
       "[STEP 1] - Show top 5 most visited addresses, based on a GPS tracker\n\n" +
-      "Which file you want to import? Type [ ls ] to see the list of files.\n"
+      "Which file you want to import to proceed? Type [ ls ] to see the list of files.\n"
     )
     //prompt the user
     println()
@@ -45,7 +45,7 @@ object StarbucksNearMeRecommendation {
     println()
     print(
       "[STEP 2] - Show Starbucks stores that are only located in the same city and state as in the addresses from [Step 1]\n\n" +
-      "Which file you want to import? Type [ ls ] to see the list of files.\n"
+      "Which file you want to import to proceed? Type [ ls ] to see the list of files.\n"
     )
     //prompt the user
     println()

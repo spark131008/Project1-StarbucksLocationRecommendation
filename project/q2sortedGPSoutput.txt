@@ -1,0 +1,538 @@
+6045 Bartam Cove, Duluth, GA 	231
+10910 Brunson Dr, Duluth, GA 	207
+10885 Brunson Dr, Duluth, GA 	124
+2856 Buford Hwy, Duluth, GA 	75
+2801 N Berkeley Lake Rd NW, Duluth, GA 	58
+B-1000, 2730 N Berkeley Lake Rd NW, Duluth, GA 	34
+10845 Yorkwood St, Johns Creek, GA 	23
+2100 Pleasant Hill Rd, Duluth, GA 	20
+3473 Old Norcross Rd, Duluth, GA 	18
+10957 GA-141, Johns Creek, GA 	16
+10527 Holliwell Ct, Duluth, GA 	15
+3199 Peachtree Industrial Blvd, Duluth, GA 	15
+2635 Pleasant Hill Rd, Duluth, GA 	14
+10900 Medlock Bridge Rd (S), Johns Creek, GA 	13
+5805 State Bridge Rd, Johns Creek, GA 	12
+3194 Peachtree Industrial Blvd, Duluth, GA 	12
+3630 Peachtree Pkwy, Suwanee, GA 	11
+11033 Medlock Bridge Rd, Johns Creek, GA 	11
+2790 Lawrenceville-Suwanee Rd, Suwanee, GA 	10
+Unnamed Road, Johns Creek, GA 	10
+8030 McGinnis Ferry Rd, Suwanee, GA 	10
+3940 Buford Hwy, Duluth, GA 	10
+10880 Skyway Dr, Duluth, GA 	10
+2175 Pleasant Hill Rd, Duluth, GA 	9
+3931 Peachtree Industrial Blvd, Duluth, GA 	9
+3495 Peachtree Industrial Blvd, Duluth, GA 	9
+7830 McGinnis Ferry Rd, Suwanee, GA 	9
+10820 Abbotts Bridge Rd, Duluth, GA 	9
+3116 Buford Hwy, Duluth, GA 	8
+10950 Skyway Dr, Duluth, GA 	8
+Satellite Blvd & Tandy Key Ln, Gwinnett Place, GA 	8
+6023 Bartam Cove, Duluth, GA 	8
+6000 Medlock Bridge Rd, Johns Creek, GA 	8
+10941 Alderwood Cove, Duluth, GA 	8
+5958 State Bridge Rd, Duluth, GA 	7
+North Berkeley Lake Rd & Storage Company OB, Duluth, GA 	7
+5950 State Bridge Rd, Duluth, GA 	7
+6130 Abbotts Bridge Rd, Johns Creek, GA 	7
+Venture Dr, Duluth, GA 	7
+6062 Buford Hwy, Norcross, GA 	7
+4025 Buford Hwy, Duluth, GA 	6
+3096 Buford Hwy, Duluth, GA 	6
+816 Old Plank Square, Duluth, GA 	6
+3952 Abbotts Bridge Rd, Duluth, GA 	6
+10960 Medlock Bridge Rd, Duluth, GA 	6
+3403 Satellite Blvd, Duluth, GA 	5
+3650 Satellite Blvd, Duluth, GA 	5
+800 GA-400, Dawsonville, GA 	5
+3000 Old Milton Pkwy, Alpharetta, GA 	5
+3560 Four Wheel Dr, Duluth, GA 	5
+1915 W Liddell Rd, Duluth, GA 	5
+5950 State Bridge Rd, Johns Creek, GA 	5
+107 W Crogan St, Lawrenceville, GA 	5
+604 Dalmore Dr, Duluth, GA 	5
+3453 Old Norcross Rd, Duluth, GA 	5
+Unnamed Road, Duluth, GA 	5
+6296 Clapham Ln, Duluth, GA 	5
+3875 Venture Dr, Duluth, GA 	5
+605 Dalmore Dr, Duluth, GA 	4
+2645 N Berkeley Lake Rd NW, Duluth, GA 	4
+3465 Duluth Hwy, Duluth, GA 	4
+6105 Deluna Way, Duluth, GA 	4
+510 Butler National Dr, Duluth, GA 	4
+3777 Abbotts Bridge Rd, Duluth, GA 	4
+3385 Kimball Bridge Rd, Alpharetta, GA 	4
+10722 Abbotts Bridge Rd, Duluth, GA 	4
+11720 Medlock Bridge Rd, Johns Creek, GA 	4
+3330 Satellite Blvd NW, Duluth, GA 	4
+4873 River Green Pkwy, Duluth, GA 	4
+US-19, Cumming, GA 	4
+3692 Peachtree Pkwy, Suwanee, GA 	4
+2860 GA-13, Duluth, GA 	4
+3294 Peachtree Industrial Blvd, Duluth, GA 	4
+Abbotts Memorial Bridge, Abbotts Bridge Rd, Duluth, GA 	3
+3097 Main St, Duluth, GA 	3
+B, 3067 Main St, Duluth, GA 	3
+4445 Abbotts Bridge Rd, Duluth, GA 	3
+10945 Abbotts Bridge Rd, Duluth, GA 	3
+11420 Johns Creek Pkwy, Duluth, GA 	3
+10900 Medlock Bridge Road, Suite 403, Medlock Promenade Shopping Ctr, Johns Creek, GA 	3
+10900 Medlock Bridge Rd, Johns Creek, GA 	3
+104 Butler Creek Ct, Duluth, GA 	3
+690 Rain Willow Ln, Duluth, GA 	3
+9720 State Bridge Rd, Alpharetta, GA 	3
+7603 McGinnis Ferry Rd, Duluth, GA 	3
+3435 Peachtree Industrial Blvd, Duluth, GA 	3
+4 Mill Run Ct, Duluth, GA 	3
+2609 Peachtree Pkwy, Suwanee, GA 	3
+7310 McGinnis Ferry Rd, Suwanee, GA 	3
+3509 Duluth Hwy, Duluth, GA 	3
+2172 Pleasant Hill Rd, Duluth, GA 	3
+2454 Pleasant Hill Rd, Duluth, GA 	3
+10950 Medlock Bridge Rd, Duluth, GA 	3
+3865 Peachtree Industrial Blvd, Duluth, GA 	3
+3469 Silver Maple Dr, Duluth, GA 	3
+150 Silk Leaf Dr, Duluth, GA 	3
+3652 Old Norcross Rd, Duluth, GA 	3
+3276 Buford Hwy, Duluth, GA 	3
+3834 Abbotts Bridge Rd, Duluth, GA 	3
+3271 Buford Hwy, Duluth, GA 	3
+2997 Main St NW, Duluth, GA 	3
+2997 Water Works St, Duluth, GA 	3
+GA 141 @ Abbotts Br ShpCtr (N), Johns Creek, GA 	3
+5970 State Bridge Rd, Duluth, GA 	3
+4319 Abbotts Bridge Rd, Duluth, GA 	3
+1616 Girvan Ridge Dr, Duluth, GA 	3
+3190 Peachtree Industrial Blvd, Duluth, GA 	2
+5948 State Bridge Rd, Johns Creek, GA 	2
+N Berkeley Lake Rd & Marquis @ Nberkeley, Duluth, GA 	2
+2570 Pleasant Hill Rd, Duluth, GA 	2
+3960 Venture Dr, Duluth, GA 	2
+3406 Buford Hwy, Duluth, GA 	2
+10350 Medlock Bridge Rd, Duluth, GA 	2
+2428 Davenport Rd NW, Duluth, GA 	2
+3950 Abbotts Bridge Rd, Duluth, GA 	2
+3514 Hill Dr NW, Duluth, GA 	2
+3391 Blue Jay Dr NW, Duluth, GA 	2
+2340 Pleasant Hill Rd, Duluth, GA 	2
+GA-120, Alpharetta, GA 	2
+3890 Pleasant Hill Rd, Duluth, GA 	2
+5710 State Bridge Rd, Johns Creek, GA 	2
+2171 Pleasant Hill Rd, Duluth, GA 	2
+3885 Buford Hwy, Duluth, GA 	2
+3328 Steve Reynolds Blvd, Duluth, GA 	2
+3320 Buford Hwy, Duluth, GA 	2
+3875 US-23, Duluth, GA 	2
+2637 Peachtree Pkwy, Cumming, GA 	2
+3863 Abbotts Bridge Rd, Duluth, GA 	2
+205 Pinion Ln, Alpharetta, GA 	2
+3855 Venture Dr, Duluth, GA 	2
+Satellite Blvd & Abba Dabba Plaza, Gwinnett Place, GA 	2
+195 Whitestone Ct, Duluth, GA 	2
+6446 Old Atlanta Rd, Suwanee, GA 	2
+6415 Barwick Ln, Johns Creek, GA 	2
+3260 Windsor Gate Run, Duluth, GA 	2
+6415 Barwick Ln, Duluth, GA 	2
+6410 E Johns Crossing, Johns Creek, GA 	2
+3247 McGinnis Ferry Rd, Suwanee, GA 	2
+6375 Barwick Ln, Duluth, GA 	2
+3215 Abbotts Pointe Dr, Duluth, GA 	2
+1581 Satellite Blvd, Duluth, GA 	2
+3200 Peachtree Industrial Blvd, Duluth, GA 	2
+3492 Satellite Blvd, Duluth, GA 	2
+3193 Davenport Rd NW, Duluth, GA 	2
+6230 Imes Way, Duluth, GA 	2
+4561 Abbotts Bridge Rd, Duluth, GA 	2
+3108 Main St, Duluth, GA 	2
+6135 Deluna Way, Duluth, GA 	2
+3057 Main St, Duluth, GA 	2
+4527 GA-120, Duluth, GA 	2
+3635 Satellite Blvd, Duluth, GA 	2
+76 Loganville Hwy SW, Grayson, GA 	2
+5960 State Bridge Rd, Johns Creek, GA 	2
+3600 Pleasant Hill Rd, Duluth, GA 	2
+11266 State Bridge Rd, Alpharetta, GA 	2
+6066 Kentons Ln, Duluth, GA 	2
+11160 Medlock Bridge Rd, Johns Creek, GA 	2
+4338 Abbotts Bridge Rd, Duluth, GA 	2
+11150 Johns Creek Cir, Johns Creek, GA 	2
+11110 State Bridge Rd, Alpharetta, GA 	2
+3570-A Buford Hwy, Duluth, GA 	2
+3550 Venture Pkwy NW, Duluth, GA 	2
+10990 Skyway Dr, Duluth, GA 	2
+10945 Medlock Bridge Rd, Johns Creek, GA 	2
+2700 Lawrenceville-Suwanee Rd, Suwanee, GA 	2
+6003 Sweet Creek Rd, Johns Creek, GA 	2
+3507 Old Norcross Rd, Duluth, GA 	2
+3528 Buford Hwy, Duluth, GA 	2
+3525 Mall Blvd NW, Duluth, GA 	2
+10722 Abbotts Bridge Rd, Johns Creek, GA 	2
+10710 Medlock Bridge Rd, Johns Creek, GA 	2
+10645 Medlock Bridge Rd, Duluth, GA 	2
+2755 Peachtree Pkwy, Suwanee, GA 	2
+4190 Duluth Hwy, Duluth, GA 	2
+2830 Old Milton Pkwy, Alpharetta, GA 	2
+2629 Pleasant Hill Rd, Duluth, GA 	2
+2623 Peachtree Pkwy, Suwanee, GA 	2
+2618 Pleasant Hill Rd, Duluth, GA 	2
+3371 Forest Knoll Ct, Duluth, GA 	1
+US-23, Duluth, GA 	1
+US-19, Dawsonville, GA 	1
+Steve Reynolds Blvd, Duluth, GA 	1
+Steve Reynolds Blvd & Old Norcross Rd, Georgia 	1
+Satellite Blvd NW, Suwanee, GA 	1
+Satellite Blvd & Commerce Ave, Gwinnett Place, GA 	1
+Ring Rd NW, Duluth, GA 	1
+Pleasant Hill Rd & Ashley Ln NW, Duluth, GA 	1
+McGinnis Ferry Rd, Alpharetta, GA 	1
+Lake McGinnis Dr, Suwanee, GA 	1
+GA 141 @ Parsons Rd (S), Johns Creek, GA 	1
+Building 400, 5110 Sugarloaf Pkwy, Lawrenceville, GA 	1
+Buford Hwy At Lively Ave Ib, Norcross, GA 	1
+Buford Hwy & Suzanne's Kitchen, Peachtree Corners, GA 	1
+9970 Medlock Bridge Rd, Johns Creek, GA 	1
+9900 Medlock Bridge Rd, Johns Creek, GA 	1
+9810-B Medlock Bridge Rd, Johns Creek, GA 	1
+9810 Medlock Bridge Rd, Johns Creek, GA 	1
+9780 Medlock Bridge Rd, Duluth, GA 	1
+9776 Preswicke Point, Alpharetta, GA 	1
+9720 Medlock Bridge Rd, Johns Creek, GA 	1
+9592 GA-141, Johns Creek, GA 	1
+907 Peachtree Industrial Blvd, Suwanee, GA 	1
+9 NE Berkeley Lake Rd, Duluth, GA 	1
+861 Millwork Cir, Duluth, GA 	1
+85 Marketplace Blvd, Dawsonville, GA 	1
+8235 McGinnis Ferry Rd, Suwanee, GA 	1
+812 Old Plank Square, Duluth, GA 	1
+804 GA-400, Dawsonville, GA 	1
+800 Satellite Blvd, Suwanee, GA 	1
+7801 McGinnis Ferry Rd, Suwanee, GA 	1
+7792 McGinnis Ferry Rd, Suwanee, GA 	1
+7790 Harbison Hollow Ln, Suwanee, GA 	1
+7725 McGinnis Ferry Rd, Johns Creek, GA 	1
+7635 Summers View Cir, Suwanee, GA 	1
+7630 Summers View Cir, Suwanee, GA 	1
+7484 Portbury Park Ln, Suwanee, GA 	1
+745 GA-120, Lawrenceville, GA 	1
+7398 McGinnis Ferry Rd, Suwanee, GA 	1
+7270 McGinnis Ferry Rd, Suwanee, GA 	1
+7250 McGinnis Ferry Rd, Suwanee, GA 	1
+720 Peachtree Industrial Blvd, Suwanee, GA 	1
+7108 Belltoll Ct, Duluth, GA 	1
+696 McGinnis Ferry Rd, Suwanee, GA 	1
+6950 McGinnis Ferry Rd, Suwanee, GA 	1
+6700 McGinnis Ferry Rd, Johns Creek, GA 	1
+662 GA-120, Lawrenceville, GA 	1
+6600 Sugarloaf Pkwy, Duluth, GA 	1
+6465 Sugarloaf Pkwy, Duluth, GA 	1
+6367 Jimmy Carter Blvd, Norcross, GA 	1
+6339 US-19, Cumming, GA 	1
+6260 Abbotts Bridge Rd, Duluth, GA 	1
+6225 GA-120, Johns Creek, GA 	1
+6127 Prestwood Dr, Duluth, GA 	1
+6119 Prestwood Dr, Duluth, GA 	1
+6119 Buford Hwy, Norcross, GA 	1
+6115 Abbotts Bridge Rd, Johns Creek, GA 	1
+6055 Farrell Way, Duluth, GA 	1
+5955 State Bridge Rd, Duluth, GA 	1
+5940 State Bridge Rd, Johns Creek, GA 	1
+584 Northfield Ct, Lawrenceville, GA 	1
+5825 Medlock Bridge Rd, Duluth, GA 	1
+5818 State Bridge Rd, Johns Creek, GA 	1
+5808 State Bridge Rd, Johns Creek, GA 	1
+580 Atlanta Hwy, Cumming, GA 	1
+5750 GA-400, Cumming, GA 	1
+5701 Sugarloaf Pkwy, Lawrenceville, GA 	1
+5690 Abbotts Bridge Rd, Duluth, GA 	1
+5686 Lawley Rd, Alpharetta, GA 	1
+5650 GA-400, Cumming, GA 	1
+5528 US-23, Norcross, GA 	1
+550 Peachtree Industrial Blvd, Suwanee, GA 	1
+5386 Buford Hwy, Norcross, GA 	1
+520 Grimesby Ct, Alpharetta, GA 	1
+506 Maltbie St, Lawrenceville, GA 	1
+5032 Overlook View Ct NW, Duluth, GA 	1
+492 Satellite Blvd NW, Suwanee, GA 	1
+4883 River Green Pkwy, Duluth, GA 	1
+4855 River Green Pkwy, Duluth, GA 	1
+4788 Sugarloaf Pkwy, Lawrenceville, GA 	1
+4579 GA-120, Duluth, GA 	1
+4547 GA-120, Duluth, GA 	1
+4540 Buford Hwy, Norcross, GA 	1
+4468 Duluth Hwy, Duluth, GA 	1
+445 Arborshade Trce, Duluth, GA 	1
+4400 GA-120, Duluth, GA 	1
+4390 Pleasant Hill Rd, Duluth, GA 	1
+4389 US-19, Cumming, GA 	1
+4339 Abbotts Bridge Rd, Duluth, GA 	1
+4333 Duluth Hwy, Duluth, GA 	1
+4310 Settingdown Rd, Cumming, GA 	1
+4215 Pleasant Hill Rd, Duluth, GA 	1
+4210 Peachtree Pkwy, Suwanee, GA 	1
+4200 Pine Vista Blvd, Alpharetta, GA 	1
+4175 Pleasant Hill Rd, Duluth, GA 	1
+4169 Abbotts Bridge Rd, Duluth, GA 	1
+4142 Duluth Hwy, Duluth, GA 	1
+4135 Boles Creek Dr NW, Duluth, GA 	1
+4118 Duluth Hwy, Duluth, GA 	1
+4112 River Mill Dr, Duluth, GA 	1
+4079 Abbotts Bridge Rd, Duluth, GA 	1
+4055 Pine Needle Dr NW, Duluth, GA 	1
+4036 Pleasant Hill Rd, Duluth, GA 	1
+4018 Atlanta Hwy, Loganville, GA 	1
+401 Riverdance Dr, Suwanee, GA 	1
+4000 Venture Dr, Duluth, GA 	1
+3998 Abbotts Bridge Rd, Duluth, GA 	1
+3993 Brookside Pkwy, Alpharetta, GA 	1
+3955 Old Milton Pkwy, Alpharetta, GA 	1
+3918 Abbotts Bridge Rd, Duluth, GA 	1
+3909 Abbott Bridge Rd, Duluth, GA 	1
+3905 Pleasant Hill Rd, Duluth, GA 	1
+3886 Buford Hwy, Duluth, GA 	1
+3855 Buford Hwy, Duluth, GA 	1
+3851 Abbotts Bridge Rd, Duluth, GA 	1
+3840 Peachtree Industrial Blvd, Duluth, GA 	1
+3825 Shackleford Rd, Duluth, GA 	1
+3818 Browns Bridge Rd, Cumming, GA 	1
+3815 Chastatee Dr NW, Duluth, GA 	1
+3808 Duluth Hwy, Duluth, GA 	1
+3802 Satellite Blvd, Duluth, GA 	1
+3778 Duluth Hwy, Duluth, GA 	1
+3775 Buford Hwy, Duluth, GA 	1
+3732 Berkeley Crossing, Duluth, GA 	1
+3722 Berkeley Crossing, Duluth, GA 	1
+3720 Berkeley Crossing, Duluth, GA 	1
+3709 US-23, Duluth, GA 	1
+3705 Oak Grove Rd SW, Loganville, GA 	1
+3675 Oak Grove Rd SW, Loganville, GA 	1
+3675 Buford Hwy, Duluth, GA 	1
+3668 Abbotts Bridge Rd, Duluth, GA 	1
+3657 Suwanee Creek Rd, Suwanee, GA 	1
+3655 US-23, Duluth, GA 	1
+3646 N Berkeley Lake Rd NW, Duluth, GA 	1
+3631 Peachtree Industrial Blvd, Duluth, GA 	1
+3628 Satellite Blvd, Duluth, GA 	1
+3622 Satellite Blvd, Duluth, GA 	1
+3607 Old Norcross Rd, Duluth, GA 	1
+3591 Peachtree Industrial Blvd, Duluth, GA 	1
+3587 Peachtree Industrial Blvd, Duluth, GA 	1
+3579 Peachtree Pkwy, Suwanee, GA 	1
+3575 Koger Blvd, Duluth, GA 	1
+3574 Hill Dr NW, Duluth, GA 	1
+3570 Peachtree Industrial Blvd, Duluth, GA 	1
+3554 US-23, Duluth, GA 	1
+3541 Satellite Blvd, Duluth, GA 	1
+3532 Old Norcross Rd, Duluth, GA 	1
+3523 Kimball Bridge Rd, Alpharetta, GA 	1
+3515 Mall Blvd NW, Duluth, GA 	1
+3500 McClure Bridge Rd, Duluth, GA 	1
+3496 US-23, Duluth, GA 	1
+3495 Satellite Blvd, Duluth, GA 	1
+3494 Hill Dr NW, Duluth, GA 	1
+3494 Gwinnett Pl Dr NW, Duluth, GA 	1
+3486 Satellite Blvd, Duluth, GA 	1
+3470 McClure Bridge Rd, Duluth, GA 	1
+3470 Buford Hwy, Duluth, GA 	1
+3460 Stoneham Dr NW, Duluth, GA 	1
+3455 Peachtree Pkwy, Suwanee, GA 	1
+3455 Peachtree Industrial Blvd, Duluth, GA 	1
+345 Old Peachtree Rd NW, Suwanee, GA 	1
+3446a Buford Hwy, Duluth, GA 	1
+3446 Buford Hwy, Duluth, GA 	1
+3425 Buford Hwy, Duluth, GA 	1
+3414 Canary Lake Dr NW, Duluth, GA 	1
+3407 GA-120, Duluth, GA 	1
+3405 Canary Lake Dr NW, Duluth, GA 	1
+3400 Satellite Blvd, Duluth, GA 	1
+3395 Fox Street Suite #104-C, Duluth, GA 	1
+3392 Blue Jay Dr NW, Duluth, GA 	1
+3380 Satellite Blvd, Duluth, GA 	1
+3371 Peachtree Industrial Blvd, Duluth, GA 	1
+3365 Steve Reynolds Blvd, Duluth, GA 	1
+3355 Steve Reynolds Blvd, Duluth, GA 	1
+3352 Pittard Rd NW, Duluth, GA 	1
+3347 Duluth Hwy, Duluth, GA 	1
+3346 Gwinnett Plantation Way, Duluth, GA 	1
+3325 Satellite Blvd NW, Duluth, GA 	1
+3317 GA-120, Duluth, GA 	1
+3313 Peachtree Industrial Blvd, Duluth, GA 	1
+3303 Orono Dr, Duluth, GA 	1
+3301 N Berkeley Lake Rd NW, Duluth, GA 	1
+3295 Caliber St, Suwanee, GA 	1
+3282 Buckeye Ct NW, Duluth, GA 	1
+3280 Peachtree Industrial Blvd, Duluth, GA 	1
+3275 N Berkeley Lake Rd NW, Norcross, GA 	1
+3262 Peachtree Pkwy, Suwanee, GA 	1
+3262 McGinnis Ferry Rd, Suwanee, GA 	1
+3261 Old Norcross Rd NW, Duluth, GA 	1
+3260 Satellite Blvd, Duluth, GA 	1
+3255 Pleasant Hill Rd, Duluth, GA 	1
+3254 Peachtree Pkwy, Suwanee, GA 	1
+325 Winherst Ln, Duluth, GA 	1
+3245 N Berkeley Lake Rd NW, Duluth, GA 	1
+3224 Satellite Blvd NW, Duluth, GA 	1
+3202 Buford Hwy, Duluth, GA 	1
+3201 Summit Ridge Pkwy, Duluth, GA 	1
+3190 Satellite Blvd, Duluth, GA 	1
+3175 Pleasant Hill Rd, Duluth, GA 	1
+3173 Watson Woods Way, Loganville, GA 	1
+3152 Oak Grove Rd SW, Loganville, GA 	1
+3151 Bunten Rd, Duluth, GA 	1
+315 Acreview Dr, Alpharetta, GA 	1
+3105 GA-141, Suwanee, GA 	1
+3085 US-23, Duluth, GA 	1
+3063 Peachtree Industrial Blvd, Duluth, GA 	1
+3055 Peachtree Industrial Blvd, Duluth, GA 	1
+3047 Hill St NW, Duluth, GA 	1
+3044 Regal Park Ct, Duluth, GA 	1
+3033 GA-317, Suwanee, GA 	1
+3032 Buford Hwy, Duluth, GA 	1
+3031 Pleasant Hill Rd, Duluth, GA 	1
+303 S Perry St, Lawrenceville, GA 	1
+3012 Burnette Rd, Suwanee, GA 	1
+3011 Davenport Rd NW, Duluth, GA 	1
+3010 Mayfair Dr, Cumming, GA 	1
+3000 St Ives Country Club Pkwy, Johns Creek, GA 	1
+2991 Davenport Rd NW, Duluth, GA 	1
+2984 McGinnis Ferry Rd, Suwanee, GA 	1
+2982 Pleasant Hill Rd, Duluth, GA 	1
+2975 Lawrenceville-Suwanee Rd, Suwanee, GA 	1
+2971 Davenport Rd NW, Duluth, GA 	1
+2920 Satellite Blvd, Duluth, GA 	1
+2914 Regent Walk Dr, Duluth, GA 	1
+291 Old Peachtree Rd NW, Suwanee, GA 	1
+2908 Duluth Hwy, Duluth, GA 	1
+290 Grayson Hwy, Lawrenceville, GA 	1
+2894 Regent Walk Dr, Duluth, GA 	1
+2888 GA-317, Suwanee, GA 	1
+2880 N Berkeley Lake Rd NW, Duluth, GA 	1
+2850 Sugarloaf Pkwy, Lawrenceville, GA 	1
+2820 Lawrenceville-Suwanee Rd, Suwanee, GA 	1
+2785 Buford Hwy, Duluth, GA 	1
+275 N Perry St, Lawrenceville, GA 	1
+2748 Duluth Hwy, Duluth, GA 	1
+2717 Old Peachtree Rd NW, Duluth, GA 	1
+2700 Buford Hwy, Duluth, GA 	1
+2697 Old Peachtree Rd NW, Duluth, GA 	1
+2692 Peachtree Pkwy, Suwanee, GA 	1
+2674 Davenport Rd NW, Duluth, GA 	1
+2645 N Berkeley Lake Rd NW STE 102, Duluth, GA 	1
+2640 Satellite Blvd NW, Duluth, GA 	1
+2640 Duluth Hwy, Duluth, GA 	1
+2639 Worrall Hill Way, Duluth, GA 	1
+2637 GA-141, Suwanee, GA 	1
+2620 N Berkeley Lake Rd NW, Duluth, GA 	1
+2607 Peachtree Pkwy, Cumming, GA 	1
+2605 Peachtree Pkwy, Cumming, GA 	1
+2605 Davenport Rd NW, Duluth, GA 	1
+2588 N Berkeley Lake Rd NW, Duluth, GA 	1
+2579 Duluth Hwy, Duluth, GA 	1
+2577 Old Peachtree Rd NW, Duluth, GA 	1
+2565 Davenport Rd NW, Duluth, GA 	1
+2555 Peachtree Pkwy, Cumming, GA 	1
+2530 Pleasant Hill Rd, Duluth, GA 	1
+2519 Samia Dr NW, Duluth, GA 	1
+2500 Meadowbrook Pkwy, Duluth, GA 	1
+2475 Satellite Blvd, Duluth, GA 	1
+2472 Pleasant Hill Rd, Duluth, GA 	1
+2452 GA-120, Duluth, GA 	1
+2425 Commerce Ave NW, Duluth, GA 	1
+2400 Satellite Blvd, Duluth, GA 	1
+2397 Davenport Rd NW, Duluth, GA 	1
+2385 Peachtree Pkwy, Cumming, GA 	1
+2348 Abbotts Bridge Rd, Duluth, GA 	1
+2345 Pleasant Hill Rd, Duluth, GA 	1
+2330 Pleasant Hill Rd, Duluth, GA 	1
+2325 Pleasant Hill Rd, Duluth, GA 	1
+232 Shade Tree Pl, Dawsonville, GA 	1
+2255 Callaway Ct, Cumming, GA 	1
+2221 Northmont Pkwy, Duluth, GA 	1
+2205 Northmont Pkwy, Duluth, GA 	1
+2174 Pleasant Hill Rd, Duluth, GA 	1
+2161 Pleasant Hill Rd, Duluth, GA 	1
+2161 Pendley Rd, Cumming, GA 	1
+2150 Pleasant Hill Rd, Duluth, GA 	1
+2143 Old Peachtree Rd NW, Duluth, GA 	1
+214 Brittany Ct, Duluth, GA 	1
+2122 Loganville Hwy, Grayson, GA 	1
+2101 Merchants Way NW, Duluth, GA 	1
+2050 Sugarloaf Cir, Duluth, GA 	1
+2023 Grayson Hwy, Grayson, GA 	1
+2017 W Liddell Rd, Duluth, GA 	1
+201 River Chase Trail, Duluth, GA 	1
+2001 Old Peachtree Rd NW, Duluth, GA 	1
+200 Wild Barley Way, Loganville, GA 	1
+2, 5150 Buford Hwy, Norcross, GA 	1
+1992 Satellite Blvd NW, Duluth, GA 	1
+1982 Satellite Blvd NW, Duluth, GA 	1
+1928 W Liddell Rd, Duluth, GA 	1
+1901 Pleasant Hill Rd, Duluth, GA 	1
+1880 Old Alpharetta Rd, Cumming, GA 	1
+1825 Pleasant Hill Rd, Duluth, GA 	1
+1770 Wheat Grass Way, Grayson, GA 	1
+1750 Satellite Blvd, Lawrenceville, GA 	1
+1699 Walden Pond Rd, Suwanee, GA 	1
+1670 Pleasant Hill Rd, Duluth, GA 	1
+1640 Satellite Blvd, Duluth, GA 	1
+1613 Beaumont Cir, Duluth, GA 	1
+1610 Girvan Ridge Dr, Duluth, GA 	1
+1608 Girvan Ridge Dr, Duluth, GA 	1
+1575 Lawrenceville Hwy, Lawrenceville, GA 	1
+1500 Satellite Blvd, Suwanee, GA 	1
+150 Prospect Pl, Alpharetta, GA 	1
+1482 GA-141, Cumming, GA 	1
+1475 Satellite Blvd, Suwanee, GA 	1
+1450 Old Peachtree Rd NW, Suwanee, GA 	1
+1437 Grayson Hwy, Lawrenceville, GA 	1
+1362 Marlton Chase Dr, Lawrenceville, GA 	1
+1325 Shawnee Industrial Way, Suwanee, GA 	1
+1291 Old Peachtree Rd NW, Suwanee, GA 	1
+1289 Old Peachtree Rd NW, Suwanee, GA 	1
+125 GA-20, Lawrenceville, GA 	1
+123 Duluth Hwy, Duluth, GA 	1
+1226 US-19, Dawsonville, GA 	1
+12000 Findley Rd, Johns Creek, GA 	1
+11975 Morris Rd, Alpharetta, GA 	1
+11758 Jones Bridge Rd, Alpharetta, GA 	1
+11720 GA-141, Johns Creek, GA 	1
+11715 Medlock Bridge Rd, Duluth, GA 	1
+11701 Fox Rd, Alpharetta, GA 	1
+11625 Medlock Bridge Rd, Johns Creek, GA 	1
+11625 Jones Bridge Rd, Alpharetta, GA 	1
+11555 Medlock Bridge Rd, Johns Creek, GA 	1
+11505 Medlock Bridge Rd, Johns Creek, GA 	1
+11484 Lakefield Dr, Johns Creek, GA 	1
+11445 Johns Creek Pkwy, Duluth, GA 	1
+11355 Medlock Bridge Rd, Johns Creek, GA 	1
+11349 Medlock Bridge Rd, Johns Creek, GA 	1
+11340 Medlock Bridge Rd, Johns Creek, GA 	1
+11340 Lake Field Dr, Johns Creek, GA 	1
+11300 Johns Creek Pkwy, Duluth, GA 	1
+11250 Wilshire Chase Dr, Duluth, GA 	1
+11250 Crofton Overlook Ct, Duluth, GA 	1
+11250 Abbotts Walk Dr, Johns Creek, GA 	1
+1125 Northbrook Pkwy, Suwanee, GA 	1
+11202 Johns Creek Pkwy, Johns Creek, GA 	1
+11157 Medlock Bridge Rd, Johns Creek, GA 	1
+111 River Chase Trail, Duluth, GA 	1
+11036 GA-141, Johns Creek, GA 	1
+11030 Medlock Bridge Rd, Johns Creek, GA 	1
+11030 GA-141, Johns Creek, GA 	1
+11024 Kemp Rd, Suwanee, GA 	1
+10993 GA-120, Johns Creek, GA 	1
+10924 Waters Rd, Alpharetta, GA 	1
+10820 Skyway Dr, Johns Creek, GA 	1
+10790 Parsons Rd, Duluth, GA 	1
+1075 Peachtree Industrial Blvd, Suwanee, GA 	1
+10687 Camarilla Ct, Duluth, GA 	1
+10537 Holliwell Ct, Duluth, GA 	1
+1050 Satellite Blvd, Suwanee, GA 	1
+105 Abbotts Mill Dr, Duluth, GA 	1
+10480 Medlock Bridge Rd, Duluth, GA 	1
+10315 GA-120, Johns Creek, GA 	1
+1020 GA-20, Lawrenceville, GA 	1
+1000 Abbotts Bridge Rd, Alpharetta, GA 	1
+100, 2608 Pleasant Hill Rd, Duluth, GA 	1
+100 Abbotts Mill Dr, Duluth, GA 	1
+0000 Industrial Park Dr NW, Peachtree Corners, GA 	1
