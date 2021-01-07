@@ -15,6 +15,8 @@ import scala.collection.mutable.Map
 import scala.collection.immutable.ListMap
 import scala.sys.process._
 import scala.language.postfixOps
+import java.util.Scanner
+import java.lang.System
 
 object StarbucksNearMeRecommendation {
 
@@ -28,49 +30,64 @@ object StarbucksNearMeRecommendation {
       "[STEP 1] - Show top 5 most visited addresses, based on a GPS tracker\n\n" +
       "Which file you want to import to proceed? Type [ ls ] to see the list of files.\n"
     )
-    //prompt the user
+    var stringInput = stringInputReader()
     println()
 
-    //Showing the list of files in the folder
-    showList()
+    while(!stringInput.equals("ls")){
+      if(stringInput.equalsIgnoreCase("exit")){
+        System.exit(0)
+      }else{
+        print("No such file/keyword is found. Please type in again: ")
+        stringInput = stringInputReader()
+      }
+    }
+
+    userInputExecutor(stringInput)
     println("\n\n")
-    println("Select a file from the list above: \n")
-    //prompt the user
 
-    loading()
-
-    //show the file content
-
-
+    println(
+    "File imported successfully\n"+
+    "Hit [ Enter ] to proceed."
+    )
+    stringInputReader()
     println()
     print(
-      "[STEP 2] - Show Starbucks stores that are only located in the same city and state as in the addresses from [Step 1]\n\n" +
+      "[STEP 2] - Show Starbucks stores that are only located in the same city and state as appeared in the addresses from [Step 1]\n\n" +
       "Which file you want to import to proceed? Type [ ls ] to see the list of files.\n"
     )
-    //prompt the user
+    var stringInput1 = stringInputReader()
     println()
     
-    //Showing the list of files in the folder
-    showList()
+     while(!stringInput1.equals("ls")){
+      if(stringInput1.equalsIgnoreCase("exit")){
+        System.exit(0)
+      }else{
+        print("No such file/keyword is found. Please type in again: ")
+        stringInput1 = stringInputReader()
+      }
+    }
+    userInputExecutor(stringInput1)
     println("\n\n")
-    println("Select a file from the list above: \n")
-    //prompt the user
+    println(
+    "File imported successfully\n"+
+    "Hit [ Enter ] to proceed."
+    )
+    stringInputReader()
+    println()
 
-    loading()
-
-    //show the file content
+    println(
+      "[STEP 3] - Compute travel distances between 5 addresses from [Step 1] and each Starbucks store location from [Step 2]\n" +
+      "Hit [ Enter ] to proceed."
+    )
+    stringInputReader()
+    val mapWithFinalValue = travelDistanceCalculator("q2sortedGPSoutput.txt", "q2sortedStarbucksoutput.txt")
 
     println()
     println(
-      "[STEP 3] - Compute travel distances between 5 addresses from [Step 1] and each Starbucks store location from [Step 2]\n"
+      "[STEP 4] - Rocommend top 3 Starbucks Near Me locations using an algorithm (Shortest distance to Farthest distance)\n"+
+      "Hit [ Enter ] to proceed."
     )
-    loading()
-    val mapWithFinalValue = travelDistanceCalculator("GPS.txt", "Starbucks.txt")
-
-    println()
-    println(
-      "[STEP 4] - Top 3 Starbucks Near Me Recommendation using an algorithm (Shortest distance to Farthest distance)\n"
-    )
+    stringInputReader()
     loading()
 
     var count = 1
@@ -80,6 +97,12 @@ object StarbucksNearMeRecommendation {
     count += 1
     Thread.sleep(500)
     }
+    println("\n\n")
+    println(
+    "Program Completed\n"+
+    "Hit [ Enter ] to exit."
+    )
+    stringInputReader()
 
   }
 
@@ -107,7 +130,7 @@ object StarbucksNearMeRecommendation {
       case Failure(t) => println("Could not process file: " + t.getMessage)
         }
       }
-      Thread.sleep(1000)
+      Thread.sleep(500)
       println("\n\n")
 
       
@@ -146,16 +169,52 @@ object StarbucksNearMeRecommendation {
       for (i <- 1 to 6) {
       val dot = "_"
       println(f"[${dot*i}%-6s]")
-      Thread.sleep(500)
+      Thread.sleep(300)
     }
     println()
   }
 
-  def showList(): Unit ={
+  def showList(): List[String] ={
     print(
       "Showing only .txt and .csv files in your current working directory  -->  "
     )
     var fileListArray = ("ls" !!).split("\\s").filter(x => x.endsWith("txt") || x.endsWith("csv"))
     fileListArray.foreach(x => print(s"| $x "))
+    return fileListArray.toList
+  }
+
+  def stringInputReader(): String = {
+    var scanner = new Scanner(System.in)
+    var input = ""
+    input = scanner.nextLine().toLowerCase()
+    return input
+  }
+
+  def userInputExecutor(input: String): Unit = {
+    if(input.equalsIgnoreCase("ls")){
+      showList()
+      println()
+      print("Select a file from the list above: ")
+      val stringInput2 = stringInputReader()
+      userInputExecutor(stringInput2)
+    }else if(input.endsWith("txt")){
+      println()
+      loading()
+      if(input.contains("starbucks")){
+          println()
+          val file = fromFile(input)
+          file.getLines().toList.foreach(println)
+      }else{
+          println()
+          val file = fromFile(input)
+          file.getLines().toList.take(5).foreach(println)
+      }
+    }else if(input.equalsIgnoreCase("exit")){
+        System.exit(0)
+    }else{
+    print("No such file/keyword is found. Please type in again: ")
+    val stringInput1 = stringInputReader()
+    userInputExecutor(stringInput1)
+    }
   }
 }
