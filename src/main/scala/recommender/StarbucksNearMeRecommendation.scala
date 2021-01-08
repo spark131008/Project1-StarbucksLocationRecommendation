@@ -107,13 +107,13 @@ object StarbucksNearMeRecommendation {
   }
 
   def travelDistanceCalculator(gpsfile: String, starbucksfile: String): Map[String, Double] = {
-    var sum = 0.0
     var myMap = Map[String, Double]()
     var starbucksCount = 'A'
-    var addressCount = 1
     
 
     for(i <- StarbucksLocationData.locationToList(starbucksfile)){
+      var sum = 0.0
+      var addressCount = 1
       print(
         s"Travel Distance between\n" +
         s"\t* Starbucks Store [$starbucksCount]\n"
@@ -135,7 +135,6 @@ object StarbucksNearMeRecommendation {
 
       
     starbucksCount = (starbucksCount+1).toChar
-    addressCount = 1
     myMap(i) = sum/5
     }
     Thread.sleep(1000)
@@ -195,26 +194,37 @@ object StarbucksNearMeRecommendation {
       showList()
       println()
       print("Select a file from the list above: ")
-      val stringInput2 = stringInputReader()
-      userInputExecutor(stringInput2)
-    }else if(input.endsWith("txt")){
+      val stringInput = stringInputReader()
+      userInputExecutor(stringInput)
+    }
+    else if(input.endsWith("txt")){
       println()
       loading()
-      if(input.contains("starbucks")){
+      input match{
+        case a if(a.contains("starbucks")) => {
           println()
-          val file = fromFile(input)
+          val file = fromFile("q2sortedStarbucksoutput.txt")
           file.getLines().toList.foreach(println)
-      }else{
+        }
+        case b if(b.contains("gps")) => {
           println()
-          val file = fromFile(input)
+          val file = fromFile("q2sortedGPSoutput.txt")
           file.getLines().toList.take(5).foreach(println)
+        }
+        case _ => {
+          print("No such file/keyword is found. Please type in again: ")
+          val stringInput1 = stringInputReader()
+          userInputExecutor(stringInput1)
+        }
       }
-    }else if(input.equalsIgnoreCase("exit")){
+    }
+    else if(input.equalsIgnoreCase("exit")){
         System.exit(0)
-    }else{
+    }
+    else{
     print("No such file/keyword is found. Please type in again: ")
-    val stringInput1 = stringInputReader()
-    userInputExecutor(stringInput1)
+    val stringInput2 = stringInputReader()
+    userInputExecutor(stringInput2)
     }
   }
 }
