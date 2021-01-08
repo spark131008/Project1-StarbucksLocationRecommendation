@@ -11,8 +11,8 @@ object StarbucksLocationData {
     val lines = file.getLines().toList
     var reducedAddress = ListBuffer[String]()
    for(i <- lines){
-        val addressWithCount = i.split(" ")
-        val addressWithoutCount = addressWithCount.take(addressWithCount.length-1)
+        val addressWithCount = i.split("\t")
+        val addressWithoutCount = addressWithCount.take(1)
         var line: String = ""
         for(j <- addressWithoutCount){
             line = line + j + " "

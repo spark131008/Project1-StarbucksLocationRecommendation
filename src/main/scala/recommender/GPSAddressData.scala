@@ -12,8 +12,8 @@ object GPSAddressData {
     val firstFiveLines = lines.take(5)
     var reducedAddress = ListBuffer[String]()
     for(i <- firstFiveLines){
-        val addressWithCount = i.split(" ")
-        val addressWithoutCount = addressWithCount.take(addressWithCount.length-1)
+        val addressWithCount = i.split("\t")
+        val addressWithoutCount = addressWithCount.take(1)
         var line: String = ""
         for(j <- addressWithoutCount){
             line += j

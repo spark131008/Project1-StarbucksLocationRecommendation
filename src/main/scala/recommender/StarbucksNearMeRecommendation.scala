@@ -116,7 +116,7 @@ object StarbucksNearMeRecommendation {
       var addressCount = 1
       print(
         s"Travel Distance between\n" +
-        s"\t* Starbucks Store [$starbucksCount]\n"
+        s"\t* Starbucks Store [$starbucksCount] ${i}\n"
       )
       for(j <- GPSAddressData.addressToList(gpsfile)){
         var mile: Future[Double] = mileExtractor(j, i)
@@ -124,7 +124,7 @@ object StarbucksNearMeRecommendation {
       mile.onComplete{
       case Success(mile) => {
         sum += mile
-        print(s"\t  ** Address ($addressCount) : $mile mi\n")
+        print(s"\t  ** Address ($addressCount) : $mile mi ${j}\n")
         addressCount += 1
       }
       case Failure(t) => println("Could not process file: " + t.getMessage)
