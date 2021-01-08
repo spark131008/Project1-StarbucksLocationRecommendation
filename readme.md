@@ -1,6 +1,6 @@
 # Project 1
 - **[Question #2]** - What are the top 3 recommended **Starbucks** stores that are geographically the most accessible to me, based on the analysis of my driving data from 11/23/2020 to 12/31/2020 <br /> <br />
-    - **[Step 1]** - Show top 5 most appeared addresses in the GPSTracking.csv using a map/reduce program. 
+    - **[Step 1]** - Show the top 5 most appeared addresses in the GPSTracking.csv using a map/reduce program. 
         >**Original GPS Tracker Dataset Format** <br />
         >`<Date> | <Type> | <Speed> | <Address> | <Distance>` <br />
         >`12/31/20 23:11,Heartbeat,1mph,"10910 Brunson Dr, Duluth, GA 30097",778.12` <br />
