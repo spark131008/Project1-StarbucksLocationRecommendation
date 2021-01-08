@@ -9,7 +9,7 @@ object URLGenerator{
         var originInFormat = "origins=" + origins
         var destinationInFormat = "destinations=" + destination
         val departureTime = "departure_time=now"
-        val APIKey = "key=" + "AIzaSyCE6ElymIpN4HowHK2_4-1_o-MvaE8Vy6Q"
+        val APIKey = "key=" + "SampleAPI"
 
         return base_URL + "&" + originInFormat + "&" + destinationInFormat + "&" + departureTime + "&" + APIKey
     }
